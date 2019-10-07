@@ -1,11 +1,11 @@
-linux
+#linux
 
 
-ls
+#ls
 
 base64.txt  flag  hex.txt
 
-ls -al
+#ls -al
 
 total 36
 drwxr-xr-x 1 root root 4096 Apr 26 14:48 .
@@ -18,7 +18,7 @@ drwxr-xr-x 1 root root 4096 Apr 26 14:48 ..
 -rw-rw-r-- 1 root root   35 Nov 15  2017 flag
 -rw-rw-r-- 1 root root   68 Nov 20  2017 hex.txt
 
-ls -Al
+#ls -Al
 
 total 28
 -rw-r--r-- 1 lab  lab   220 Apr 26 14:48 .bash_logout
