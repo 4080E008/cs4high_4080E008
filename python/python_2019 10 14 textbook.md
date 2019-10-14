@@ -2,7 +2,7 @@
 ```
 #10-1
 
-root@kali:/# gedit test2.py
+root@kali:/# gedit test1.py
 
 print("hello!")
 print(3*2*(17-2.1))
@@ -10,7 +10,7 @@ print("abc"+"def")
 word = "art"
 print(word.replace("r", "n"))
 
-root@kali:/# python3 test2.py
+root@kali:/# python3 test1.py
 1 / 2 = 0.5
 1/2=0.5
 ```
