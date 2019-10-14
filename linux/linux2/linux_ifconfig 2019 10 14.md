@@ -44,6 +44,17 @@ root@kali:/# pwd
 root@kali:/bin# cd ..
 root@kali:/# cd
 root@kali:~# 
+
+root@kali:/bin# cd ..
+
+bash: /bin: Is a directory
+
+root@kali:/# cd
+
+root@kali:~# 
+
 ```
+
+
 
 
