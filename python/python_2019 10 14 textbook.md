@@ -42,7 +42,7 @@ input("Where do you live? ")
 print("I live in Boston. ")
 
 root@kali:/# python3 test3.py
-Where do you live?  123
+Where do you live?  輸入:123
 I live in Boston.
 ```
 
@@ -76,8 +76,8 @@ print(num*num)
 
 root@kali:/# python3 test5.py
 
-Enter a number to find the square of: 12
-Enter a integer to find the square of: 21
+Enter a number to find the square of: 12  輸入:12
+Enter a integer to find the square of: 21  輸入:21
 441
 ```
 
@@ -91,7 +91,7 @@ num2 = float(input("Enter another number: "))
 print(num1, "*", num2, "=", num1*num2)
  
 root@kali:/# python3 test6.py
-Enter a number: 12
-Enter another number: 21
+Enter a number: 12 輸入:12
+Enter another number: 21  輸入:21
 12.0 * 21.0 = 252.0
 ```
