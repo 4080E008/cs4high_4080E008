@@ -42,7 +42,8 @@ input("Where do you live? ")
 print("I live in Boston. ")
 
 root@kali:/# python3 test3.py
-Where do you live? 
+Where do you live?  123
+I live in Boston.
 ```
 
 ```
