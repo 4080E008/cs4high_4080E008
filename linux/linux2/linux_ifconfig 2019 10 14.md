@@ -31,7 +31,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 #ping 172.17.0.1
 
 ```
-#linux實戰作業
+linux實戰作業
 root@kali:~# pwd
 /root
 root@kali:~# cd ..
