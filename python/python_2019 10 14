@@ -1,0 +1,19 @@
+#python
+```
+
+gedit test1.py
+
+print("hello!")
+print(3*2*(17-2.1))
+print("abc"+"def")
+word = "art"
+print(word.replace("r", "n"))
+
+python3 test1.py
+
+hello!
+89.4
+abcdef
+ant
+
+```
