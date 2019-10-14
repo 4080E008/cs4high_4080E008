@@ -64,7 +64,7 @@ I hear it's nice there!
 ```
 
 ```
-10-5
+#10-5
 
 root@kali:/# gedit test5.py
 
@@ -81,7 +81,7 @@ Enter a integer to find the square of: 21
 ```
 
 ```
-10-6
+#10-6
 
 root@kali:/# gedit test6.py
 
