@@ -29,9 +29,14 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 
 
 #ping 172.17.0.1
+```
 
 ```
+
+
 linux實戰作業
+```
+
 root@kali:~# pwd
 /root
 root@kali:~# cd ..
@@ -39,8 +44,8 @@ root@kali:/# pwd
 /
 ```
 
-```
 測驗:說明底下程式的意義
+```
 root@kali:/bin# cd ..
 root@kali:/# cd
 root@kali:~# 
@@ -55,6 +60,13 @@ root@kali:~#
 
 ```
 
+建目錄 mkdir
+```
+root@kali:/# mkdir KSU
+root@kali:/# cd KSU
+root@kali:/KSU# ls
+
+```
 
 
 
