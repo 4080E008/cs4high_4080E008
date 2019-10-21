@@ -20,3 +20,10 @@ Python基礎程式閱讀題100
 4.print("qaz"+"wsx")會印出甚麼結果:
 (a)qaz+wsx (b)qazwsx (c)出現錯誤,無法印出 (d)0
 ```
+
+```
+5.word = "art"
+print(word.replace("r", "b"))會印出甚麼結果:
+
+(a)abt (b)arbt (c)出現錯誤,無法印出 (d)0
+```
