@@ -29,5 +29,50 @@ print(word.replace("r", "b"))會印出甚麼結果:
 ```
 
 ```
-6.
+6."qazwsxedcr"[0:9:2]會印出甚麼結果:
+(a)awxdr (b)qzsec (c)出現錯誤,無法印出 (d)qazwsxedcr
 ```
+
+```
+7."qazwsxedcr"[-1:-10:-2]會印出甚麼結果:
+(a)rdxwa (b)ceszq (c)出現錯誤,無法印出 (d)qazwsxedcr
+```
+
+```
+8."Hello World".lower()會印出甚麼結果:
+(a)HELLO WORLD (b)hello world (c)出現錯誤,無法印出 (d)hELLO wORLD
+```
+
+```
+9."Hello World".upper()會印出甚麼結果:
+(a)HELLO WORLD (b)hello world (c)出現錯誤,無法印出 (d)hELLO wORLD
+```
+
+```
+10."Hello World".swapcase()會印出甚麼結果:
+(a)HELLO WORLD (b)hello world (c)出現錯誤,無法印出 (d)hELLO wORLD
+```
+
+```
+11."Hello World".capitalize()會印出甚麼結果:
+(a)HELLO WORLD (b)hello world (d)hELLO wORLD (d)Hello world
+```
+
+```
+12."Hello World".title()會印出甚麼結果:
+(a)HELLO WORLD (b)hello world (c)出現錯誤,無法印出 (d)Hello World
+```
+
+```
+13.
+
+```
+
+
+
+
+
+
+
+
+
