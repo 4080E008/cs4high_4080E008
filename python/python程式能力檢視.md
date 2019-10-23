@@ -27,3 +27,7 @@ print(word.replace("r", "b"))會印出甚麼結果:
 
 (a)abt (b)arbt (c)出現錯誤,無法印出 (d)0
 ```
+
+```
+6.
+```
