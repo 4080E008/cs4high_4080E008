@@ -64,7 +64,17 @@ print(word.replace("r", "b"))會印出甚麼結果:
 ```
 
 ```
-13.
+13.a=("hello")  a.find("l")會印出甚麼結果:
+(a)helllo (b)helo (c)2 (d)出現錯誤,無法印出
+```
+
+```
+14.a=("hello")  a.find("ol")會印出甚麼結果:
+(a)hello (b)helol (c)出現錯誤,無法印出 (d)hellol
+```
+
+```
+15.
 
 ```
 
